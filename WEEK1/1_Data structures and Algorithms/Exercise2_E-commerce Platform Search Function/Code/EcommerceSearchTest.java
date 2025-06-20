@@ -1,6 +1,3 @@
-
-//Step-1
-
 import java.util.*;
 
 class EcommerceSearchTest {

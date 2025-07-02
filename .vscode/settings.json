@@ -1,3 +1,13 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "WEEK3/lmanagement/src/main/java/com/library/lmanagement",
+        "WEEK3/librarymanagement/src/main/java/com/library/librarymanagement",
+        "WEEK3/librarymanagemenr/src/main/java/library/librarymanagemenr",
+        "WEEK1/1_Design principles & Patterns/Exercise2_Implementing the Factory Method Pattern/Code",
+        "WEEK1/1_Design principles & Patterns/Exercise1_Implementing the Singleton Pattern/code",
+        "WEEK1/1_Data structures and Algorithms",
+        "WEEK3/Exercise2/Code/src/main/java/org/example"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

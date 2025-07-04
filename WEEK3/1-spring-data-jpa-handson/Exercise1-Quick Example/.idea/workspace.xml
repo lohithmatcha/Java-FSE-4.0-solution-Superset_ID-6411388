@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="601eb1a6-96b2-4bae-99d3-9aea05b8f63a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Output/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/src/main/java/org/example/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/src/main/java/org/example/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/src/main/java/org/example/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring-core-maven/Exercise7-Constructor and Setter Injection/code/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/.idea/orm-learn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/main/java/com/cognizant/orm_learn/OrmLearnApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/main/java/com/cognizant/orm_learn/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/main/java/com/cognizant/orm_learn/repository/CountryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/main/java/com/cognizant/orm_learn/service/CountryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orm-learn/orm-learn/src/test/java/com/cognizant/orm_learn/OrmLearnApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/orm-learn-2.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/.idea/orm-learn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/OrmLearnApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/model/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/repository/CountryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/repository/StockRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/service/CountryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/java/com/cognizant/orm_learn/service/StockService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-spring-data-jpa-handson/orm-learn-2.2/orm-learn/src/test/java/com/cognizant/orm_learn/OrmLearnApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/Output/Output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/Output/SetterMethod(Injection).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/src/main/java/org/example/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/src/main/java/org/example/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-maven/Excercise5/code/src/main/resources/applicationContext.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2zQ4wP0dCLXer2g28fw4rIwpZJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="601eb1a6-96b2-4bae-99d3-9aea05b8f63a" name="Changes" comment="" />
+      <created>1751650202249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751650202249</updated>
+      <workItem from="1751650203967" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
